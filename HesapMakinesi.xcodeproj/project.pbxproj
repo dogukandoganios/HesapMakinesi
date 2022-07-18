@@ -16,6 +16,7 @@
 		631955872850BA84004D9116 /* HesapMakinesiTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 631955862850BA84004D9116 /* HesapMakinesiTests.swift */; };
 		631955912850BA84004D9116 /* HesapMakinesiUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 631955902850BA84004D9116 /* HesapMakinesiUITests.swift */; };
 		631955932850BA84004D9116 /* HesapMakinesiUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 631955922850BA84004D9116 /* HesapMakinesiUITestsLaunchTests.swift */; };
+		633100272858A5BC0044C709 /* buttonClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 633100262858A5BC0044C709 /* buttonClass.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		6319558C2850BA84004D9116 /* HesapMakinesiUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HesapMakinesiUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		631955902850BA84004D9116 /* HesapMakinesiUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HesapMakinesiUITests.swift; sourceTree = "<group>"; };
 		631955922850BA84004D9116 /* HesapMakinesiUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HesapMakinesiUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		633100262858A5BC0044C709 /* buttonClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = buttonClass.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				6319556F2850BA82004D9116 /* AppDelegate.swift */,
 				631955712850BA82004D9116 /* SceneDelegate.swift */,
 				631955732850BA82004D9116 /* ViewController.swift */,
+				633100262858A5BC0044C709 /* buttonClass.swift */,
 				631955752850BA82004D9116 /* Main.storyboard */,
 				631955782850BA84004D9116 /* Assets.xcassets */,
 				6319557A2850BA84004D9116 /* LaunchScreen.storyboard */,
@@ -260,6 +263,7 @@
 			files = (
 				631955742850BA82004D9116 /* ViewController.swift in Sources */,
 				631955702850BA82004D9116 /* AppDelegate.swift in Sources */,
+				633100272858A5BC0044C709 /* buttonClass.swift in Sources */,
 				631955722850BA82004D9116 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
